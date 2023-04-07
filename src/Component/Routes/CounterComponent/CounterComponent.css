@@ -1,0 +1,29 @@
+.App {
+    text-align: center;
+    background-color: #61dafb;
+  }
+  .greet{
+    text-align: center;
+    background-color: bisque;
+  }
+  
+  .counter{
+    font-size: larger;
+    padding-top: 20%;
+    background-color: rgb(226, 226, 231);
+  }
+  .increment{
+    font-size: larger;
+    background-color: #6de078;
+    
+  }
+  .decrement{
+    font-size: larger;
+    background-color: #f57f57;
+    
+  }
+  
+  
+  
+  
+  
